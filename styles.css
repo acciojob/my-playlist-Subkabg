@@ -20,6 +20,7 @@ section{
 	border-radius: 10px;
 	padding: 50px;
 	background-color: white; 
+    margin: 50px;
 }
 audio{
 	width: 100%;
@@ -28,5 +29,5 @@ audio{
 .player_one {
     display: flex;
     justify-content: center;
-	
+	padding: 10px;
 }
