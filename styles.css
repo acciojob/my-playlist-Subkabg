@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
+}
+ul{
+list-style-type: none;
+}
+div ul li a{
+	text-decoration: none;
+	color: black;
+}
+.songs{
+	border: 2px solid black;
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
+}
+section{
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 50px;
+}
+audio{
+	width: 100%;
+}
+
+.player_one {
+    display: flex;
+    justify-content: center;
+}
