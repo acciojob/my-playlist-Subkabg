@@ -22,11 +22,11 @@ section{
 	background-color: white; 
     margin: 50px;
 }
-audio{
+video,audio{
 	width: 100%;
 }
 
-.player_one {
+.player_one, .player_two{
     display: flex;
     justify-content: center;
 	padding: 10px;
